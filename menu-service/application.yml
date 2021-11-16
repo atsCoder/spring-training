@@ -1,3 +1,6 @@
+custom:
+  message: Welcome to PCMC
+
 management:
   endpoints:
     web:
